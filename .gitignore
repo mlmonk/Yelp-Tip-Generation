@@ -1,0 +1,6 @@
+data/*
+*.pdf
+Ivyla/*
+Max/*
+python-scripts/training_checkpoints
+ython-scripts/checkpoints
